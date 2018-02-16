@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="dividerGrey">#cccccc</color>
+    <color name="veggieColor">#7fa016</color>
+    <color name="nonVeggieColor">#bf264f</color>
+    <color name="actionBarBgColor">#7fa016</color>
+    <color name="actionBarTextColor">#FFFFFF</color>
+    <color name="errorTitleColor">#FFA500</color>
+</resources>

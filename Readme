@@ -1,0 +1,33 @@
+Welcome to Snack Mart!
+
+The app lets you order snack from preloaded list of veggie and non-veggie snack
+items. The app lets you filter the list by your diet preference. You can also 
+add your own snack to the preloaded list and order them.
+
+Testing:
+1. Verify that snack list display with correct color coding in main activity
+2. Use snack type selections on top of main activity and verify that the list 
+   is updated accordingly
+3. Select few snacks and click submit button. Verify that selected items are 
+   listed on order review dialog. Click OK. Verify that all the checkbox 
+   selections on main activity are reset.
+4. Click submit button without selecting any checkbox in the list. Make sure 
+   error dialog is displayed and dismissed when clicked OK.
+5. Check both snack types on top of main activity. Now check a few snack items
+   from both veggie and non-veggie type. Now toggle selection of Veggie snack 
+   type on the top and  make sure that veggie snacks from the list disappear 
+   and come back unselected. Repeat by toggling non-veggie type checkbox.
+6. Click add snack on action bar and enter a new snack with veggie type. Click
+   save. Verify that the snack appears on the list with correct color. Now 
+   select the snack and verify that it appears in order review dialog.
+7. Click add snack on action bar. Click Save without entering a snack name. 
+   Verify error dialog displays. 
+8. Click add snack on action bar. Enter existing snack name. Verify error 
+   dialog displays. 
+
+Possible improvements:
+1. Define limit on number of characters in new snack name and verify that
+   UI displays long name correctly.
+2. Improve checks for snack name entered by the user through add action.
+3. Use styles and themes to give a more consistent UI appearance. 
+4. Optimize file write following adding a snack.

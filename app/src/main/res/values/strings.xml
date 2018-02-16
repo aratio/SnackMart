@@ -1,0 +1,27 @@
+<resources>
+    <!-- Main Activity -->
+    <string name="app_name">SnackMart</string>
+    <string name="submit_button">Submit Order</string>
+    <string name="snack_type_veggie">Veggie</string>
+    <string name="snack_type_nonveggie">Non-Veggie</string>
+    <string name="actionbar_add_option">Add Snack</string>
+
+    <!-- Submit Dialog -->
+    <string name="order_review_title">Order Review</string>
+    <string name="confirm_dialog_button">OK</string>
+    <string name="submit_order_error">No snack selected.</string>
+
+    <!-- ADD New Snack Dialog -->
+    <string name="new_snack_title">New Snack</string>
+    <string name="new_snack_dialog_save_button">Save</string>
+    <string name="new_snack_error">Cannot add new snack</string>
+    <string name="new_snack_name_hint">New Snack Name</string>
+    <string name="add_error_text">Could not add snack. Check name of the snack.</string>
+
+    <!-- Error Dialog -->
+    <string name="error_dialog_title">Error!</string>
+
+
+    <!-- Misc -->
+    <string name="cancel_button">Cancel</string>
+</resources>

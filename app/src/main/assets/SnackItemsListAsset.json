@@ -1,0 +1,14 @@
+{
+ "snacklist":
+ [
+   { "name": "Cheeseburger",    "type": "non-veggie"},
+   { "name": "Hamburger",       "type": "non-veggie"},
+   { "name": "Hot dog",         "type": "non-veggie"},
+   { "name": "Veggieburger",    "type": "veggie"},
+   { "name": "French fries",    "type": "veggie"},
+   { "name": "Carrots",         "type": "veggie"},
+   { "name": "Apple",           "type": "veggie"},
+   { "name": "Banana",          "type": "veggie"},
+   { "name": "Milkshake",       "type": "veggie"}
+ ]
+}
